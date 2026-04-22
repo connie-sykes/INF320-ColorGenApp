@@ -13,6 +13,7 @@
 ### Recursos utilizados durante el desarrollo (documentación, bibliografía, uso de IA)
 #### Documentacion
 - [ColorNames Library Documentation](https://www.nuget.org/packages/ColorNamesSharp/#readme-body-tab)
+- [Dotnet string formats](https://learn.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings)
 
 #### Bibliografia
 - [Instalacion con Linux](https://youtu.be/s-clGkUbk84?si=xRfXpYIc-Owraxqg)
