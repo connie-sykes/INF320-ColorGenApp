@@ -8,8 +8,7 @@
 - En esta primera instancia el mayor impedimento fue la instalacion de todos los prerrequisitos.
 - En el caso de Linux habian pequeñas discrepancias con las instalaciones normales que entorpecieron el dejar todo andando.
 
-### Recursos utilizados durante el desarrollo (documentación, bibliografía, uso
-de IA)
+### Recursos utilizados durante el desarrollo (documentación, bibliografía, uso de IA)
 #### Documentacion
 -
 
