@@ -1,34 +1,85 @@
-# Gradle files
-.gradle/
-build/
+# =========================
+# .NET / MAUI
+# =========================
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Build
+bin/
+obj/
 
-# Log/OS Files
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
 *.log
 
-# Android Studio generated files and folders
+# OS
+.DS_Store
+Thumbs.db
+
+# =========================
+# MAUI / Mobile
+# =========================
+
+*.apk
+*.apks
+*.aab
+*.ipa
+
+# Android
+Platforms/Android/bin/
+Platforms/Android/obj/
+
+# iOS
+Platforms/iOS/bin/
+Platforms/iOS/obj/
+
+# MacCatalyst
+Platforms/MacCatalyst/bin/
+Platforms/MacCatalyst/obj/
+
+# Windows
+Platforms/Windows/bin/
+Platforms/Windows/obj/
+
+# =========================
+# Android / Gradle extras
+# =========================
+
+.gradle/
+build/
+local.properties
 captures/
 .externalNativeBuild/
 .cxx/
-*.aab
-*.apk
 output-metadata.json
 
-# IntelliJ
-*.iml
+# =========================
+# IDEs
+# =========================
+
 .idea/
+.vscode/
+*.iml
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
-# Keystore files
-*.jks
-*.keystore
+# =========================
+# Secrets / keys
+# =========================
 
-# Google Services (e.g. APIs or Firebase)
+*.p12
+*.keystore
+*.jks
 google-services.json
 
-# Android Profiling
-*.hprof
+# =========================
+# NuGet
+# =========================
+
+*.nupkg
+packages/
