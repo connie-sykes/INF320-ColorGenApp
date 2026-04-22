@@ -10,7 +10,7 @@
 
 ### Recursos utilizados durante el desarrollo (documentación, bibliografía, uso de IA)
 #### Documentacion
--
+- [ColorNames Library Documentation](https://www.nuget.org/packages/ColorNamesSharp/#readme-body-tab)
 
 #### Bibliografia
 -
